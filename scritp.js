@@ -1,1 +1,1 @@
-console.log("山之内班");
+console.log("山之内班んん");
